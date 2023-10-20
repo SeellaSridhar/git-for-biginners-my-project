@@ -1,1 +1,1 @@
-Welcome to new project !
+Welcome to "Git for Biginners" new project !
